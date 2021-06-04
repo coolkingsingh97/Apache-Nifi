@@ -1,0 +1,11 @@
+# Setting up Apache Nifi on Windows
+
+# First step is to go to http://nifi.apache.org/download.html nifi downloads page and download the latest zip binary.
+
+# Extract it to a folder
+
+
+# Bash Script
+cd nifi-1.13.2
+cd bin
+./run-nifi.bat
