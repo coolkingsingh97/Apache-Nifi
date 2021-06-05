@@ -9,3 +9,11 @@
 cd nifi-1.13.2
 cd bin
 ./run-nifi.bat
+
+# Changing the port
+cd ..
+cd conf
+notepad.exe nifi.properties
+# Inside notepad change "nifi.web.http.port = 9300"
+# Save and restart applcation
+
