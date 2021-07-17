@@ -8,7 +8,7 @@
 # Bash Script
 cd nifi-1.13.2
 cd bin
-./run-nifi.bat
+.\run-nifi.bat
 
 # Changing the port
 cd ..
