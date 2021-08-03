@@ -18,3 +18,5 @@ notepad.exe nifi.properties
 # Save and restart applcation
 
 # Download the latest JDBC Driver and add the jar file to a created folder in your nifi directory called driver
+
+# Struggling to use getfile for 2 weeks, permission issues most probably. Will keep trying
